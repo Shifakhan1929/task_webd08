@@ -20,7 +20,7 @@ function App() {
         <div className="text-white text-3xl font-bold">LOGO</div>
 
         {/* Navigation Links */}
-        <nav className="space-x-8 text-white text-lg font-medium hidden sm:block">
+        <nav className="space-x-8 text-white text-lg ml-220 font-medium hidden sm:block">
           <a href="#" className="hover:text-gray-300">Home</a>
           <a href="#" className="hover:text-gray-300">Services</a>
           <a href="#" className="hover:text-gray-300">Contact</a>
